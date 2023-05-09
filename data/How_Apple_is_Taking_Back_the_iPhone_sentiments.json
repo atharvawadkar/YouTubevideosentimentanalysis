@@ -1,0 +1,754 @@
+[
+    {
+        "text": "Um, okay, so recently we've seen a few interesting headlines about apple.",
+        "start": 0,
+        "end": 8010,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9116181135177612,
+        "speaker": null
+    },
+    {
+        "text": "One was about them potentially making a single chip that would combine cellular wi fi and bluetooth into one for the iPhone.",
+        "start": 8090,
+        "end": 14634,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7112784385681152,
+        "speaker": null
+    },
+    {
+        "text": "And then the next day, there was a report that they're working on their own displays for the apple watch and the iPhone.",
+        "start": 14682,
+        "end": 20474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5081127882003784,
+        "speaker": null
+    },
+    {
+        "text": "And so I've been looking into this.",
+        "start": 20522,
+        "end": 21486,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8435903191566467,
+        "speaker": null
+    },
+    {
+        "text": "I've been trying to figure out, is this a nothing deal or a massive deal?",
+        "start": 21508,
+        "end": 26470,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6490599513053894,
+        "speaker": null
+    },
+    {
+        "text": "And so after a lot of research and time put into this, it turns out the best way to understand this is with a chart.",
+        "start": 26540,
+        "end": 31394,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5790901184082031,
+        "speaker": null
+    },
+    {
+        "text": "See, on the great scale of products that are made up of a bunch of different parts, there's a gradient.",
+        "start": 31442,
+        "end": 35522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7089439630508423,
+        "speaker": null
+    },
+    {
+        "text": "And on one half of that gradient is off the shelf parts.",
+        "start": 35586,
+        "end": 38306,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5709800720214844,
+        "speaker": null
+    },
+    {
+        "text": "And on the other side is fully custom vertically integrated part.",
+        "start": 38338,
+        "end": 42214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7439507842063904,
+        "speaker": null
+    },
+    {
+        "text": "Now, most smartphones these days have a lot of things like off the shelf camera sensors from Sony, like the Sony imx 585 that they'll just sell to anyone.",
+        "start": 42252,
+        "end": 50378,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5567523241043091,
+        "speaker": null
+    },
+    {
+        "text": "There's a lot of displays out there made by Samsung and LG, but they're calibrated a bit after you've all heard us talk about qualcomm snapdragon eight, gen two.",
+        "start": 50464,
+        "end": 58334,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6297778487205505,
+        "speaker": null
+    },
+    {
+        "text": "And qualcomm has lots of chips that any smartphone manufacturer can buy, and also lots of smaller parts like fingerprint sensors and modems and radios from companies like qualcomm and broadcom.",
+        "start": 58372,
+        "end": 66954,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6087811589241028,
+        "speaker": null
+    },
+    {
+        "text": "And typically, only when you get to the most specific parts of the phone, like buttons and chassis, are you going to have custom parts for your phone.",
+        "start": 67002,
+        "end": 73810,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8184394836425781,
+        "speaker": null
+    },
+    {
+        "text": "Now, the iPhones chart right now looks something like this.",
+        "start": 73880,
+        "end": 77330,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8319580554962158,
+        "speaker": null
+    },
+    {
+        "text": "Now, most people don't think about this much, but it's actually a cacophony of different parts.",
+        "start": 77400,
+        "end": 81074,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7093411684036255,
+        "speaker": null
+    },
+    {
+        "text": "It's like a mixed salad of different things.",
+        "start": 81122,
+        "end": 83126,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5922061800956726,
+        "speaker": null
+    },
+    {
+        "text": "The camera sensors, for example, for all intents and purposes, they're just off the shelf from Sony.",
+        "start": 83228,
+        "end": 87682,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6556729078292847,
+        "speaker": null
+    },
+    {
+        "text": "The main supplier of the battery for the iPhone is a Chinese company called AMPEREX, but it is customized a bit.",
+        "start": 87746,
+        "end": 93194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7993174195289612,
+        "speaker": null
+    },
+    {
+        "text": "It's actually l shaped and multicelled to sort of fit maximally in the iPhone's design.",
+        "start": 93232,
+        "end": 97898,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5747627019882202,
+        "speaker": null
+    },
+    {
+        "text": "And on the far end, they do have their chassis, but also the fully customized a 16 bionic, things like a taptic engine.",
+        "start": 97984,
+        "end": 104430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8741954565048218,
+        "speaker": null
+    },
+    {
+        "text": "So there is a big advantage to having parts that are more custom, especially in tech, because the main benefit that you get is optimization.",
+        "start": 104500,
+        "end": 111930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8890042901039124,
+        "speaker": null
+    },
+    {
+        "text": "Like, for simplicity's sake, just imagine you're trying to build a triangular object and you want to fill its volume as efficiently as possible, but you only have square blocks off the shelf.",
+        "start": 112010,
+        "end": 120302,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6183009147644043,
+        "speaker": null
+    },
+    {
+        "text": "You won't be very efficient with those parts, but if you can design all the parts yourself, well, now we're talking that's peak optimization.",
+        "start": 120366,
+        "end": 126638,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5858776569366455,
+        "speaker": null
+    },
+    {
+        "text": "So clearly you want the best, most well optimized pieces for your thing, your product.",
+        "start": 126734,
+        "end": 132438,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6033301949501038,
+        "speaker": null
+    },
+    {
+        "text": "You just saw what happened with the max, where they just switched from all those off the shelf intel parts to those custom designed apple silicon pieces.",
+        "start": 132524,
+        "end": 138194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7706202864646912,
+        "speaker": null
+    },
+    {
+        "text": "Like, that was a massive improvement for apple and all their computers.",
+        "start": 138242,
+        "end": 141574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9126153588294983,
+        "speaker": null
+    },
+    {
+        "text": "Took a quantum leap forward in speed, in efficiency, in battery life.",
+        "start": 141622,
+        "end": 146330,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8305238485336304,
+        "speaker": null
+    },
+    {
+        "text": "Like they're just hilariously better than ever before.",
+        "start": 146400,
+        "end": 148282,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9505940079689026,
+        "speaker": null
+    },
+    {
+        "text": "And so the iPhone, well the iPhone is huge for Apple.",
+        "start": 148336,
+        "end": 151766,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9535330533981323,
+        "speaker": null
+    },
+    {
+        "text": "I mean, I know Macs are kind of popular, but most of Apple's revenue since it came out in 2007 has been from the iPhone.",
+        "start": 151798,
+        "end": 158842,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8722924590110779,
+        "speaker": null
+    },
+    {
+        "text": "So Apple taking back parts of the iPhone turns out to be a very Tim Cook supply chain optimization story more than anything.",
+        "start": 158906,
+        "end": 167102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5686648488044739,
+        "speaker": null
+    },
+    {
+        "text": "So there are two stories in there, the displays and the chips.",
+        "start": 167156,
+        "end": 169534,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8851820230484009,
+        "speaker": null
+    },
+    {
+        "text": "Let's start with the displays because as you may or may not know, about 80% of iPhone displays are made by Samsung.",
+        "start": 169662,
+        "end": 176750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6250454187393188,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, that's Samsung.",
+        "start": 176830,
+        "end": 177726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6398912072181702,
+        "speaker": null
+    },
+    {
+        "text": "Then about 12% by LG display and then the last 8% by others like BoE display.",
+        "start": 177758,
+        "end": 182642,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8938629627227783,
+        "speaker": null
+    },
+    {
+        "text": "So right now that basically looks like Apple going to the display maker and going, hey, you guys make OLED displays, right?",
+        "start": 182706,
+        "end": 188710,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6824474334716797,
+        "speaker": null
+    },
+    {
+        "text": "Okay, cool.",
+        "start": 188780,
+        "end": 189430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.848861813545227,
+        "speaker": null
+    },
+    {
+        "text": "We're going to need a bunch of those.",
+        "start": 189500,
+        "end": 190982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7531136274337769,
+        "speaker": null
+    },
+    {
+        "text": "We would like this curve radius and these certain cutouts for our little dynamic island and we'd like 100 million of them.",
+        "start": 191036,
+        "end": 198298,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6574398875236511,
+        "speaker": null
+    },
+    {
+        "text": "So if you guys could do that, that would be great and we'll pay you up.",
+        "start": 198384,
+        "end": 201258,
+        "sentiment": "POSITIVE",
+        "confidence": 0.969918429851532,
+        "speaker": null
+    },
+    {
+        "text": "And so that manufacturer based on their own technology will fill those orders using the displays they know how to make.",
+        "start": 201344,
+        "end": 207134,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7610014081001282,
+        "speaker": null
+    },
+    {
+        "text": "And by the way, it's actually kind of super impressive that all of this happens so seamlessly.",
+        "start": 207172,
+        "end": 210890,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9681978821754456,
+        "speaker": null
+    },
+    {
+        "text": "And on the other end, you don't really know if you have a display made by Samsung or LG or BoE in your iPhone.",
+        "start": 210970,
+        "end": 218734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6375312209129333,
+        "speaker": null
+    },
+    {
+        "text": "Now if you want to get into the weeds, multiple sourcing is actually a pretty common tactic to reduce your reliance on one manufacturer.",
+        "start": 218782,
+        "end": 224974,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6931658983230591,
+        "speaker": null
+    },
+    {
+        "text": "So sometimes off the shelf parts from several different companies are all pretty similar.",
+        "start": 225022,
+        "end": 229106,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5129443407058716,
+        "speaker": null
+    },
+    {
+        "text": "So for something like the ambient light sensor, for example, who knows who makes that and who cares, right?",
+        "start": 229208,
+        "end": 234374,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6965377330780029,
+        "speaker": null
+    },
+    {
+        "text": "Like as long as we get 100 million of them and they all fit in the iPhone the same way and they all work, then we're good.",
+        "start": 234412,
+        "end": 239894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8576779365539551,
+        "speaker": null
+    },
+    {
+        "text": "But it can easily go terribly.",
+        "start": 239932,
+        "end": 241234,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7656901478767395,
+        "speaker": null
+    },
+    {
+        "text": "Like think about the big differences between the Qualcomm powered Samsung phone and the Exynos powered Samsung phone or the hardware lottery.",
+        "start": 241282,
+        "end": 248326,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7778770923614502,
+        "speaker": null
+    },
+    {
+        "text": "Back when we had the Galaxy S Eight, some of them had fast storage chips, some of them had slow storage chips.",
+        "start": 248358,
+        "end": 253222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7492034435272217,
+        "speaker": null
+    },
+    {
+        "text": "So with these iPhone displays, there is some calibration work that needs to be done.",
+        "start": 253286,
+        "end": 256702,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7124026417732239,
+        "speaker": null
+    },
+    {
+        "text": "But Apple has handled the sourcing so well that we never notice the difference.",
+        "start": 256756,
+        "end": 260878,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5054442882537842,
+        "speaker": null
+    },
+    {
+        "text": "So the question now after seeing these headlines is what happens when we go from Apple's displays being slightly customized to being completely customized?",
+        "start": 260964,
+        "end": 269918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.681677520275116,
+        "speaker": null
+    },
+    {
+        "text": "Because now there's some rumors that Apple is trying to move from OLED to MicroLED and really stepping up the design and quality of their displays and their watches and phones in the next few generations.",
+        "start": 270014,
+        "end": 280770,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.517336368560791,
+        "speaker": null
+    },
+    {
+        "text": "So when I first read into this, I actually thought it meant like nothing.",
+        "start": 280850,
+        "end": 285000,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.4799858033657074,
+        "speaker": null
+    },
+    {
+        "text": "Apple doesn't really actually manufacture pretty much anything.",
+        "start": 285450,
+        "end": 289350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.514858067035675,
+        "speaker": null
+    },
+    {
+        "text": "They are a world class design firm and they do a lot of research and design and development.",
+        "start": 289420,
+        "end": 294870,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9317406415939331,
+        "speaker": null
+    },
+    {
+        "text": "But then at the end of the day when they actually make the thing they're not manufacturing the iPhone or the pieces in the iPhone.",
+        "start": 294950,
+        "end": 300694,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6671107411384583,
+        "speaker": null
+    },
+    {
+        "text": "They get a company to do it.",
+        "start": 300742,
+        "end": 301850,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6782715320587158,
+        "speaker": null
+    },
+    {
+        "text": "They might custom design the M two chip but they're getting TSMC the actual foundry to build the chip for them.",
+        "start": 301920,
+        "end": 309246,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9079627394676208,
+        "speaker": null
+    },
+    {
+        "text": "But it turns out with Micro Led here Apple kind of wants to put in a ton of the development with the technology in their own facilities.",
+        "start": 309268,
+        "end": 316678,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6120335459709167,
+        "speaker": null
+    },
+    {
+        "text": "They've already started spending a ton of money on testing and evolving.",
+        "start": 316794,
+        "end": 320302,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.660266101360321,
+        "speaker": null
+    },
+    {
+        "text": "See that's the main difference.",
+        "start": 320366,
+        "end": 321330,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.795482337474823,
+        "speaker": null
+    },
+    {
+        "text": "Before they would go to a company like Samsung or whoever and they're already making OLED displays because that's their technology and they would make a couple of customizations but that technology can be sold to anyone else.",
+        "start": 321400,
+        "end": 331846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7421087026596069,
+        "speaker": null
+    },
+    {
+        "text": "Apple wants to do all the development and stuff for Micro Led so when they get to the end of the chain they give the instructions to someone and they make it.",
+        "start": 331948,
+        "end": 339846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5793901085853577,
+        "speaker": null
+    },
+    {
+        "text": "But that's an exclusive Apple technology so they're kind of trying to get ahead of and own MicroLED.",
+        "start": 339868,
+        "end": 346598,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6795863509178162,
+        "speaker": null
+    },
+    {
+        "text": "So that's why all these stocks dropped on this news.",
+        "start": 346694,
+        "end": 349354,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8013286590576172,
+        "speaker": null
+    },
+    {
+        "text": "When this reset happens we don't really know which companies Apple will be going to to manufacture them.",
+        "start": 349472,
+        "end": 354234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7469028234481812,
+        "speaker": null
+    },
+    {
+        "text": "Apple's still not going to make the display themselves and in theoretically it could be the exact same list of manufacturers but word on the street is they're trying to strategically drop a certain Samsung.",
+        "start": 354272,
+        "end": 362794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6187623143196106,
+        "speaker": null
+    },
+    {
+        "text": "So we'll see.",
+        "start": 362842,
+        "end": 363582,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6478123068809509,
+        "speaker": null
+    },
+    {
+        "text": "So that's the displays.",
+        "start": 363636,
+        "end": 364714,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5513784885406494,
+        "speaker": null
+    },
+    {
+        "text": "But then there's also the story about the radios which is a little more interesting because right now they're buying radios and their phones from Broadcom and Qualcomm but also it's several different radios in different parts of the phone.",
+        "start": 364762,
+        "end": 378882,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8390180468559265,
+        "speaker": null
+    },
+    {
+        "text": "So that rumor was not only that they're going to design their own chip but that they're going to combine them all WiFi, Bluetooth and cellular into one chip.",
+        "start": 378936,
+        "end": 386994,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8448448181152344,
+        "speaker": null
+    },
+    {
+        "text": "So that, to me, is a little more interesting because obviously it's the same supply chain story of oh, no, if you're qualcomm or broadcom, you don't really like that future, but also the possible efficiency gains.",
+        "start": 387042,
+        "end": 396006,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.41318678855895996,
+        "speaker": null
+    },
+    {
+        "text": "Because right now there's a bunch of radios taking up different space in the phone, taking up a bunch of power in the phone, and ideally, consolidating all them to one chip is really great for efficiency gains.",
+        "start": 396038,
+        "end": 406106,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6413115859031677,
+        "speaker": null
+    },
+    {
+        "text": "Maybe it means battery life gets better.",
+        "start": 406138,
+        "end": 407694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7414936423301697,
+        "speaker": null
+    },
+    {
+        "text": "So yeah, both of these stories are of Apple using their mountains of cash to put into the upfront development costs and eventually reap the rewards of better products down the line for their products.",
+        "start": 407732,
+        "end": 419950,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7568572759628296,
+        "speaker": null
+    },
+    {
+        "text": "That's essentially what's happening and you better believe that there's going to be other companies who have the same idea and want to do sort of a similar thing.",
+        "start": 420020,
+        "end": 425942,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6048066020011902,
+        "speaker": null
+    },
+    {
+        "text": "They just might not have as much cash.",
+        "start": 425996,
+        "end": 427670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5279257893562317,
+        "speaker": null
+    },
+    {
+        "text": "So at the end of the day who does this affect the most?",
+        "start": 427740,
+        "end": 429782,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6864806413650513,
+        "speaker": null
+    },
+    {
+        "text": "Well you can kind of look at it along the same lines as the Apple Silicon Mac transition.",
+        "start": 429916,
+        "end": 434002,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7285335659980774,
+        "speaker": null
+    },
+    {
+        "text": "So if you're Apple, the main benefit you're going to get out of this is having a lot more control, which Apple loves that, but also being able to have better products at the end of the day.",
+        "start": 434066,
+        "end": 443418,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9571259617805481,
+        "speaker": null
+    },
+    {
+        "text": "Great.",
+        "start": 443504,
+        "end": 443802,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7671429514884949,
+        "speaker": null
+    },
+    {
+        "text": "Now if you're one of the suppliers, if you're Qualcomm or Broadcom or Samsung maybe, and you're about to lose a pretty big customer yeah, then they're going to feel that.",
+        "start": 443856,
+        "end": 455214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49512091279029846,
+        "speaker": null
+    },
+    {
+        "text": "And then for us, the potential users, really at the end of the day, if they're successful with this, then that means having better products.",
+        "start": 455252,
+        "end": 462510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.776492178440094,
+        "speaker": null
+    },
+    {
+        "text": "And maybe we get mini Led displays starting in Apple Watches at first and then maybe in the iPhone bigger display and then even bigger ones later.",
+        "start": 462580,
+        "end": 470286,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7025665640830994,
+        "speaker": null
+    },
+    {
+        "text": "Cool.",
+        "start": 470388,
+        "end": 470942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8420014381408691,
+        "speaker": null
+    },
+    {
+        "text": "But also it'll be interesting with the competition with the competitive environment and seeing what companies like Huawei and Xiaomi and Samsung and even Google will do along the same lines, following in their suit.",
+        "start": 471076,
+        "end": 483010,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7603310942649841,
+        "speaker": null
+    },
+    {
+        "text": "Always fun to watch.",
+        "start": 483090,
+        "end": 484262,
+        "sentiment": "POSITIVE",
+        "confidence": 0.968828022480011,
+        "speaker": null
+    },
+    {
+        "text": "Okay, hopefully that helped us all understand it.",
+        "start": 484396,
+        "end": 486326,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7522527575492859,
+        "speaker": null
+    },
+    {
+        "text": "It helped me.",
+        "start": 486348,
+        "end": 487222,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8724350929260254,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching.",
+        "start": 487356,
+        "end": 488390,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9529334306716919,
+        "speaker": null
+    },
+    {
+        "text": "Catch you in the next one.",
+        "start": 488540,
+        "end": 489910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.76590895652771,
+        "speaker": null
+    },
+    {
+        "text": "Peace.",
+        "start": 490060,
+        "end": 490870,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48897233605384827,
+        "speaker": null
+    }
+]

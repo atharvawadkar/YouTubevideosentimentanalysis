@@ -1,0 +1,602 @@
+[
+    {
+        "text": "A major development in the banking world.",
+        "start": 170,
+        "end": 2702,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5513170957565308,
+        "speaker": null
+    },
+    {
+        "text": "The FDIC just reported that California regulators shut down Silicon Valley Bank, a big lender out in California, after reporting a loss of over $1 billion.",
+        "start": 2756,
+        "end": 11790,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6330409049987793,
+        "speaker": null
+    },
+    {
+        "text": "There were fears of a run on this bank.",
+        "start": 11860,
+        "end": 13626,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5512615442276001,
+        "speaker": null
+    },
+    {
+        "text": "People wondering if they should have PTSD into 2008.",
+        "start": 13738,
+        "end": 16686,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5682506561279297,
+        "speaker": null
+    },
+    {
+        "text": "What's going on here?",
+        "start": 16708,
+        "end": 17550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7387891411781311,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, this really is an earthquake, especially for the tech community.",
+        "start": 17620,
+        "end": 21326,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4995725750923157,
+        "speaker": null
+    },
+    {
+        "text": "Silicon Valley Bank dropped by 60% yesterday, a alone.",
+        "start": 21428,
+        "end": 25938,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8256217241287231,
+        "speaker": null
+    },
+    {
+        "text": "We just learned today that California regulators have shut this lender down.",
+        "start": 26034,
+        "end": 31430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7391762137413025,
+        "speaker": null
+    },
+    {
+        "text": "This is the biggest failure since 2008.",
+        "start": 31500,
+        "end": 34502,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9708874225616455,
+        "speaker": null
+    },
+    {
+        "text": "It's actually the second biggest failure ever since Washington Mutual in September of 2008.",
+        "start": 34556,
+        "end": 41194,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9590608477592468,
+        "speaker": null
+    },
+    {
+        "text": "This is a major lender to tech startups.",
+        "start": 41312,
+        "end": 43430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6334562301635742,
+        "speaker": null
+    },
+    {
+        "text": "The FDIC says that insurer depositors, they will have full access to insured deposits by Monday morning.",
+        "start": 43510,
+        "end": 50458,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7387852668762207,
+        "speaker": null
+    },
+    {
+        "text": "Insured deposits, that means up to $250,000.",
+        "start": 50544,
+        "end": 53710,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.880909264087677,
+        "speaker": null
+    },
+    {
+        "text": "Of course, we know that some small businesses, some startups, some individuals, they have more than that.",
+        "start": 53780,
+        "end": 59614,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7598126530647278,
+        "speaker": null
+    },
+    {
+        "text": "$250,000.",
+        "start": 59652,
+        "end": 60910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6376737356185913,
+        "speaker": null
+    },
+    {
+        "text": "It's not clear if they're going to get all of their money back.",
+        "start": 60980,
+        "end": 63918,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5517911314964294,
+        "speaker": null
+    },
+    {
+        "text": "This, of course, is not sitting well in the marketplace.",
+        "start": 64004,
+        "end": 66874,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8337849378585815,
+        "speaker": null
+    },
+    {
+        "text": "We see the Dow is down by more than 250 points.",
+        "start": 66922,
+        "end": 70018,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5986741781234741,
+        "speaker": null
+    },
+    {
+        "text": "Banks are leading the way lower.",
+        "start": 70104,
+        "end": 72100,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5128016471862793,
+        "speaker": null
+    },
+    {
+        "text": "The good news here is that experts that I'm talking to, they are hopeful that this is an isolated incident, that this is not part of a broader systemic issue.",
+        "start": 72550,
+        "end": 82486,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8632605075836182,
+        "speaker": null
+    },
+    {
+        "text": "Mark Zandi, he told me he's the chief economist over at Moody's Analytics.",
+        "start": 82588,
+        "end": 86066,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7673563957214355,
+        "speaker": null
+    },
+    {
+        "text": "He just told me that he doesn't think that this failure is symptomatic of a broader problem in the banking industry.",
+        "start": 86098,
+        "end": 92278,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5892480611801147,
+        "speaker": null
+    },
+    {
+        "text": "Let's hope not, because that's the last thing we need right now.",
+        "start": 92374,
+        "end": 95162,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47070351243019104,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, all the major banks are saying that they are well capitalized.",
+        "start": 95216,
+        "end": 97926,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5604020357131958,
+        "speaker": null
+    },
+    {
+        "text": "Matt Egan.",
+        "start": 98038,
+        "end": 98742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8426222801208496,
+        "speaker": null
+    },
+    {
+        "text": "Thank you.",
+        "start": 98806,
+        "end": 99580,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8529649972915649,
+        "speaker": null
+    },
+    {
+        "text": "Robert Reich, former US.",
+        "start": 100190,
+        "end": 102170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7783845067024231,
+        "speaker": null
+    },
+    {
+        "text": "Labor secretary under President Clinton is with us now.",
+        "start": 102240,
+        "end": 104814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7948892116546631,
+        "speaker": null
+    },
+    {
+        "text": "Also the author of the system, who Rigged It and How We Fix It, Secretary Reich, always good to have you.",
+        "start": 104852,
+        "end": 110766,
+        "sentiment": "POSITIVE",
+        "confidence": 0.651039719581604,
+        "speaker": null
+    },
+    {
+        "text": "Let's start where Matt ended with this Silicon Valley Bank, the FDIC now in control, we saw that there were some stumbles from Wells Fargo, JPMorgan Chase, bank of America, other banks trading.",
+        "start": 110788,
+        "end": 124238,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6279191374778748,
+        "speaker": null
+    },
+    {
+        "text": "Theirs halted yesterday.",
+        "start": 124334,
+        "end": 126306,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7427147626876831,
+        "speaker": null
+    },
+    {
+        "text": "What does this mean for people outside of the Silicon Valley bank universe?",
+        "start": 126418,
+        "end": 133026,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8167125582695007,
+        "speaker": null
+    },
+    {
+        "text": "What does this mean for the average borrower, if anything?",
+        "start": 133058,
+        "end": 135640,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8043843507766724,
+        "speaker": null
+    },
+    {
+        "text": "So far, it doesn't mean anything.",
+        "start": 136490,
+        "end": 138390,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6287381649017334,
+        "speaker": null
+    },
+    {
+        "text": "But the big question is, one of contagion.",
+        "start": 138460,
+        "end": 141190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5951730012893677,
+        "speaker": null
+    },
+    {
+        "text": "That is what we saw in 2008 was when one big bank, the couple of others, started to fail, could not pay their depositors, could not actually pay up what they owed.",
+        "start": 141350,
+        "end": 153706,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.911793053150177,
+        "speaker": null
+    },
+    {
+        "text": "They were closed and regulators had to move in very quickly.",
+        "start": 153898,
+        "end": 158814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7062621116638184,
+        "speaker": null
+    },
+    {
+        "text": "But we ended up with a financial crisis because one big banking card easily starts tipping over other cards.",
+        "start": 159012,
+        "end": 167918,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8844130039215088,
+        "speaker": null
+    },
+    {
+        "text": "It's a house of cards.",
+        "start": 167934,
+        "end": 169070,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7466477155685425,
+        "speaker": null
+    },
+    {
+        "text": "Now, we don't know yet about contagion.",
+        "start": 169150,
+        "end": 172462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6435530185699463,
+        "speaker": null
+    },
+    {
+        "text": "What we do know is that this bank was obviously overextended.",
+        "start": 172606,
+        "end": 176606,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7358848452568054,
+        "speaker": null
+    },
+    {
+        "text": "And this is related to the Fed because as interest rates went up and this bank was lending to a lot of startups, this bank simply could not handle it.",
+        "start": 176718,
+        "end": 186662,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8338050842285156,
+        "speaker": null
+    },
+    {
+        "text": "I think that this is the biggest economic news today.",
+        "start": 186796,
+        "end": 190022,
+        "sentiment": "POSITIVE",
+        "confidence": 0.958437442779541,
+        "speaker": null
+    },
+    {
+        "text": "It is not this jobs report.",
+        "start": 190076,
+        "end": 192234,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5305013060569763,
+        "speaker": null
+    },
+    {
+        "text": "The jobs report was good and it kind of signals to me a soft landing.",
+        "start": 192272,
+        "end": 197350,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9759501814842224,
+        "speaker": null
+    },
+    {
+        "text": "But I think that in terms of what the Fed is going to do, this bank implosion, this potential contagion may reverse Jerome Powell's direction.",
+        "start": 197430,
+        "end": 210202,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6589038372039795,
+        "speaker": null
+    },
+    {
+        "text": "It may lead to, instead of a half a point increase at the March meeting, it may lead to no increase at all.",
+        "start": 210266,
+        "end": 217634,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6921098828315735,
+        "speaker": null
+    },
+    {
+        "text": "In fact, it's even conceivable that interest rates start dropping out of a fear that we're going to be in deep trouble.",
+        "start": 217672,
+        "end": 224690,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5337002277374268,
+        "speaker": null
+    },
+    {
+        "text": "You have advocated for the Fed to stop increasing the interest rate.",
+        "start": 225050,
+        "end": 229782,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7081751823425293,
+        "speaker": null
+    },
+    {
+        "text": "Why?",
+        "start": 229836,
+        "end": 230390,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6120100617408752,
+        "speaker": null
+    },
+    {
+        "text": "Before this issue with Silicon Valley bank assembly?",
+        "start": 230540,
+        "end": 234946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7846184968948364,
+        "speaker": null
+    },
+    {
+        "text": "Because I don't see any wage price inflation.",
+        "start": 234978,
+        "end": 238498,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.561886727809906,
+        "speaker": null
+    },
+    {
+        "text": "Wages, according to Drum Powell, are pushing up prices.",
+        "start": 238594,
+        "end": 242070,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6853268146514893,
+        "speaker": null
+    },
+    {
+        "text": "Well, that's simply not the case.",
+        "start": 242150,
+        "end": 243674,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6107103228569031,
+        "speaker": null
+    },
+    {
+        "text": "Look at today's report, for example.",
+        "start": 243712,
+        "end": 245466,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7700035572052002,
+        "speaker": null
+    },
+    {
+        "text": "We are seeing the smallest wage increase in over a year.",
+        "start": 245648,
+        "end": 249738,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5778882503509521,
+        "speaker": null
+    },
+    {
+        "text": "Prices continue to rise.",
+        "start": 249904,
+        "end": 251858,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7027581930160522,
+        "speaker": null
+    },
+    {
+        "text": "That is absolutely true.",
+        "start": 251894,
+        "end": 253118,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7320531606674194,
+        "speaker": null
+    },
+    {
+        "text": "But wages are not pushing them up.",
+        "start": 253204,
+        "end": 255102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7071441411972046,
+        "speaker": null
+    },
+    {
+        "text": "It's not that workers are doing so wonderfully well.",
+        "start": 255156,
+        "end": 257646,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.43688058853149414,
+        "speaker": null
+    },
+    {
+        "text": "What's pushing up many prices domestically?",
+        "start": 257748,
+        "end": 260270,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5914689898490906,
+        "speaker": null
+    },
+    {
+        "text": "Big companies that want to increase their profit margins and so they have monopolies or near monopolies oligopolies.",
+        "start": 260610,
+        "end": 268142,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5398674011230469,
+        "speaker": null
+    },
+    {
+        "text": "They are using the opportunity, using inflation as an excuse to put up their prices.",
+        "start": 268206,
+        "end": 273438,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6867238283157349,
+        "speaker": null
+    },
+    {
+        "text": "So this is at its bottom here.",
+        "start": 273534,
+        "end": 276482,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8995380401611328,
+        "speaker": null
+    },
+    {
+        "text": "It really is an antitrust monopolization issue.",
+        "start": 276616,
+        "end": 279670,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5955329537391663,
+        "speaker": null
+    },
+    {
+        "text": "It is not a Fed interest rate problem.",
+        "start": 279740,
+        "end": 282934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.589886486530304,
+        "speaker": null
+    },
+    {
+        "text": "So you suggest that the Fed should stop increasing the interest rate, but if that is the only tool they have, I imagine you're going to correct that assumption.",
+        "start": 283132,
+        "end": 291094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5558077096939087,
+        "speaker": null
+    },
+    {
+        "text": "But if that's the only tool they have to try to bring it back down to the 2% rate, that goal, then what else can they do to try to tame inflation, if not increase the interest rate?",
+        "start": 291142,
+        "end": 306320,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.723060131072998,
+        "speaker": null
+    },
+    {
+        "text": "Well, first of all, let me just say it's not clear that they have to do anything else.",
+        "start": 306690,
+        "end": 311294,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5201067924499512,
+        "speaker": null
+    },
+    {
+        "text": "Inflation is starting to come down now.",
+        "start": 311412,
+        "end": 313886,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5850435495376587,
+        "speaker": null
+    },
+    {
+        "text": "We'll find out more Tuesday when the inflation report, the Consumer Price Increase report inflation report will be coming out.",
+        "start": 313908,
+        "end": 322206,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9391402006149292,
+        "speaker": null
+    },
+    {
+        "text": "But as of what we know now, inflation is slowing slightly.",
+        "start": 322308,
+        "end": 327506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8507029414176941,
+        "speaker": null
+    },
+    {
+        "text": "And the key here is the direction.",
+        "start": 327618,
+        "end": 330946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8059373497962952,
+        "speaker": null
+    },
+    {
+        "text": "If inflation were increasing, that would be one thing, but if inflation is starting to slow down, if we're seeing it going in the right direction, then it's not clear that the Fed has got to keep raising interest rates and risking a recession.",
+        "start": 331138,
+        "end": 344834,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5079809427261353,
+        "speaker": null
+    },
+    {
+        "text": "That's going to hurt everybody.",
+        "start": 344962,
+        "end": 346180,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9338029623031616,
+        "speaker": null
+    }
+]
