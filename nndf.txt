@@ -1,0 +1,6 @@
+pip install tweepy
+pip install flask
+pip install pandas
+pip install textblob
+pip install matplotlib
+pip install nltk
